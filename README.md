@@ -1,6 +1,9 @@
-# Get informed about new COVID-19 cases confirmed in your country 
+## Get informed about updated COVID-19 cases in your country simply from your terminal
+### Script Output
+<p align = "center">
+<img src="Images/1.png">
+</p>
 
-![](images/1.png)
 
 ## What does this script do ?
 
