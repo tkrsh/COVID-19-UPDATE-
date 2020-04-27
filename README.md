@@ -8,7 +8,7 @@
 ## What does this script do ?
 
     1) Displays live count of COVID-19 cases in your Country.
-    2) Displays number of New Cases wrt previus update
+    2) Displays number of New Cases wrt Previous update
     3) Plays Sound Notification when new Cases are Detected     ** Disabled By Default  To Enable : Uncomment Line 33 
     4) Sends A Slack Message Alert                              ** Disabled By Default  
 
