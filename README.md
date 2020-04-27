@@ -1,8 +1,6 @@
 # Get informed about new COVID-19 cases confirmed in your country 
 
-<p align = "center">
-<img src="https://imgur.com/a/nAIkXxb">
- </p>
+![](images/1.png)
 
 ## What does this script do ?
 
