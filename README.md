@@ -1,9 +1,12 @@
 ## Get informed about updated COVID-19 cases in your country simply from your terminal
+Get informed about updated COVID-19 cases in your country simply from your terminal and send Slack 
+messages as a notification along with audio notification whenever a new COVID-19 Case is Detected.
+The Script refreshes at 5 seconds interval by default.
+Data Source: https://google.com/covid19-map/?hl=en
 ### Script Output
 <p align = "center">
 <img src="Images/1.png">
 </p>
-
 
 ## What does this script do ?
 
@@ -15,10 +18,12 @@
 ## Procedure 
 
     1) Download the script 
-    2) Run The Script in terminal
+    2) Run covid_updates.py in terminal
         - python3 covid_updates.py CountryName SoundPath
     3) To run script in background with slack and music notifications , run in terminal 
         - nohup sh updates.sh &&
+    4) If Necessory,update refresh intervals by modifying last line of the script, by default it is set 
+       to sleep for 5 seconds
  
 ## Installing Dependencies 
     
