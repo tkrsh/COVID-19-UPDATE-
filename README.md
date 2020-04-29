@@ -21,7 +21,7 @@ Data Source: https://google.com/covid19-map/?hl=en
     2) Run covid_updates.py in terminal
         - python3 covid_updates.py CountryName SoundPath
     3) To run script in background with slack and music notifications , run in terminal 
-        - nohup sh updates.sh &&
+        - nohup python3 covid_updates.py &
     4) If Necessory,update refresh intervals by modifying last line of the script, by default it is set 
        to sleep for 5 seconds
  
