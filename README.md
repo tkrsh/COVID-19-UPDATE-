@@ -3,8 +3,7 @@ Get informed about updated COVID-19 cases in your country simply from your termi
 messages as a notification along with audio notification whenever a new COVID-19 Case is Detected.
 The Script refreshes at 5 seconds interval by default.
 Data Source: https://google.com/covid19-map/?hl=en
-Slcak Message Format:
-### Script Output
+ ### Script Output
 <p align = "center">
 <img src="Images/1.png">
 </p>
